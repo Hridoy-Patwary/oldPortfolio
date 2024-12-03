@@ -630,10 +630,3 @@ moreProjects.addEventListener("click", ()=>{
     projectsContainer.style.height = "0";
   }
 });
-
-
-
-// 19/10/2024 update
-window.addEventListener('load', () => {
-  alert("This is my old portfolio, recently i lost my server so i've to use this old portfolio with github free hosting")
-})
